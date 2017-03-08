@@ -4,9 +4,9 @@ Distributed program for adding 2-dimensional matrices using Java RMI, which adds
 
 # How to Run
  - Open a command prompt (for server)
- - Compile: javac *.java
- - Starting RMI: start rmiregistry
- - Adding Server: java AddServer
-Open a command prompt (for client)
-Adding Client: java AddClient 127.0.0.1.6
-Entr Dimension of Matrix
+ - Compile:  javac *.java
+ - Starting RMI:  start rmiregistry
+ - Adding Server:  java AddServer
+ - Open a command prompt (for client)
+ - Adding Client:  java AddClient 127.0.0.1.6
+ - Entr Dimension of Matrix
